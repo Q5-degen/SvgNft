@@ -57,3 +57,12 @@ This project uses a **Log Trigger** from Chainlink Automation. Here's how it wor
 - **`checkLog(Log memory log, ...)`**:  The function that Chainlink Automation calls to check if an upkeep is needed.
 - **`performUpkeep(bytes memory performData)`**: The function that Chainlink Automation calls to perform the upkeep (minting the "Sad" NFT).
 - **`tokenURI(uint256 _tokenId)`**: Returns the metadata URI, which will point to either the "Happy" or "Sad" SVG image.
+
+
+### Installation
+
+1.  **Clone your repository:**
+    ```bash
+    git clone https://github.com/Q5-degen/CharityFactory.git
+    cd CharityFactory
+    ```
