@@ -64,5 +64,5 @@ This project uses a **Log Trigger** from Chainlink Automation. Here's how it wor
 1.  **Clone your repository:**
     ```bash
     git clone https://github.com/Q5-degen/SvgNft.git
-    cd CharityFactory
+    cd SvgNft
     ```
